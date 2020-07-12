@@ -1,16 +1,16 @@
-### Hi there 👋
+![T](https://github.com/vitorjordao/vitorjordao/blob/master/logo.png)
 
-<!--
-**vitorjordao/vitorjordao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there :wave: 
 
-Here are some ideas to get you started:
+I'm Vitor Jordão, lover of programming and eternal student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My skills
+
+:rocket: Full Cycle | Java | JavaScript | Clojure | TypeScript | ClojureScript | C# | GO :rocket:
+
+## Other facts
+
+- 💬 Ask me about programming facts, job opportunities and everything else you want.
+- 👯 I’m looking to collaborate on very impacting projects.
+- 🤔 I’m looking for help with a new job opportunity.
+- 📫 Contact me on my [email](comercial.vitorjordao@gmail.com) or on my [Linkedin](https://www.linkedin.com/in/vitor-jord%C3%A3o-peviano-simonato/)
