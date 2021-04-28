@@ -1,5 +1,3 @@
-![T](https://github.com/vitorjordao/vitorjordao/blob/master/logo.png)
-
 ## Hi there :wave: 
 
 I'm Vitor Jordão, lover of programming and eternal student
